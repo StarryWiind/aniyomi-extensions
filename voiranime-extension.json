@@ -1,0 +1,19 @@
+[
+  {
+    "name": "VoirAnime",
+    "pkg": "com.voiranime.extension",
+    "apk": "voiranime-extension-v1.0.apk",
+    "lang": "fr",
+    "code": 1,
+    "version": "1.0",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "VoirAnime",
+        "lang": "fr",
+        "id": "7890123456789012345",
+        "baseUrl": "https://v5.voiranime.com"
+      }
+    ]
+  }
+]
